@@ -1,0 +1,46 @@
+body{
+  margin:0;
+  background-color:#B8E2EF;
+
+}
+.nav{
+  list-style-type: none;
+  margin: 0;
+  padding: 20px 5px 40px 0;
+  background-color:#ffffff;
+  color:#000000;
+  text-align: right;
+}
+.nav > li{
+  display: inline-block;
+  padding:5px 25px 5px 25px;
+}
+.nav li > a{
+  text-decoration:none;
+  color:#000000;
+  font-size: 20px;
+
+}
+.nav > li > a:hover{
+  color:#c1c1c1;
+  width:10px;
+}
+h1{
+  padding: 25px;
+  text-align:center;
+  font-family:Architects Daughter;
+}
+.banner{
+  width:100%;
+}
+.logo{
+  padding-top: 10px;
+}
+#informasjon{
+  padding:25px;
+  text-align: center;
+  font-family: arial;
+}
+header{
+  background-color:white;
+}
